@@ -1,0 +1,1 @@
+python train.py --dataroot ./datasets/moju --name moju_cyclegan --model cycle_gan --preprocess scale_width_and_crop --load_size 1024 --crop_size 300
